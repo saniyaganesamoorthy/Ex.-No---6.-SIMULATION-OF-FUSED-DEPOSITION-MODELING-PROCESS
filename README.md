@@ -40,7 +40,7 @@ The X and Y axes govern lateral movement , and the Z axis controls vertical posi
 The X and Y axes control horizontal movement , and the Z axis manages vertical positioning in a 3D printer . Filament from a build material spool is extruded through an extrusion head with a nozzle onto the build platform, situated on a foam base.
 # Step 6:
 ![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/546ec936-feab-4940-9c6b-4d78fb8b0c57)
-EXPLANATION: The X and Y axes guide lateral movement , and the Z axis controls vertical positioning in a 3D printer . Filament from a build material spool is extruded through an extrusion head with a nozzle to create a layered part on the platform, situated on a foam base.
+# EXPLANATION: The X and Y axes guide lateral movement , and the Z axis controls vertical positioning in a 3D printer . Filament from a build material spool is extruded through an extrusion head with a nozzle to create a layered part on the platform, situated on a foam base.
 ## Output:
 
 ### Name: SANIYA G
