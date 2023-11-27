@@ -1,6 +1,6 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
-## DATE: 
+## DATE:27/11/2023 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -16,14 +16,35 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
+# Step 1:
+![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/54077e16-e4c6-40c1-9604-65f3af7f1c6c)
+# EXPLANATION :  
+In a 3D printer diagram ,the X and Y axes control
+Lateral movement , the foam base provide support , the build platform holds the object being printed , and the Z axis manages
+Vertical movement , enabling layer-by-layer construction.
+# Step 2:
+![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/8c8cad30-6c37-44e4-b346-91d28e1fbfd2)	
+# EXPLANATION : 
+The X and Y axes dictate horizontal movement , while the Z axis controls vertical motion in a 3D printer . The extrusion head with an extrusion nozzle deposits material layer by layer onto the build platform atop the foam base, forming the printing object.
+# Step 3:
+![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/79ee2205-3120-48a5-9b47-74d17fe4d10b)
+# EXPLANATION:
+In a 3D printer the X and Y axes control horizontal movement , while the Z axis manages vertical positioning. The extrusion head with an extrusion nozzle deposits material layer by layer onto the build platform, supported by a foam base, and is supplied by a build material spool.
+# Step 4:
+![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/00ab3e5b-e6a4-48c7-8c15-04e4940f8edb)
+# EXPLANATION:
+The X and Y axes govern lateral movement , and the Z axis controls vertical positioning in a 3D printer. The build material , fed from a spool, is extruded through an extrusion head with a nozzle onto the build platform situated on a foam base.	
+# Step 5:
+![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/41b98be2-af56-4e42-802b-5f0fcbb67502)
+# EXPLANATION: 
+The X and Y axes control horizontal movement , and the Z axis manages vertical positioning in a 3D printer . Filament from a build material spool is extruded through an extrusion head with a nozzle onto the build platform, situated on a foam base.
+# Step 6:
+![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/546ec936-feab-4940-9c6b-4d78fb8b0c57)
+EXPLANATION: The X and Y axes guide lateral movement , and the Z axis controls vertical positioning in a 3D printer . Filament from a build material spool is extruded through an extrusion head with a nozzle to create a layered part on the platform, situated on a foam base.
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SANIYA G
+### Register Number: 23002553
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
