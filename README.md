@@ -17,7 +17,7 @@
 
 ## OUTPUT:
 # Step 1:
-![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/54077e16-e4c6-40c1-9604-65f3af7f1c6c)
+![image](https://github.com/saniyaganesamoorthy/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/145742583/1065b4cd-8242-48b8-805c-de40c35a6921)
 # EXPLANATION :  
 In a 3D printer diagram ,the X and Y axes control
 Lateral movement , the foam base provide support , the build platform holds the object being printed , and the Z axis manages
